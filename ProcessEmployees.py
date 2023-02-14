@@ -43,7 +43,7 @@ print()
 print('=========================================')
 print()
 
-#print out the total difference between the old salary and the new salary.
+#print out the total difference between the old salary and the new salary as per image.
 
         
     
