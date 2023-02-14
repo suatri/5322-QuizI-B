@@ -18,6 +18,7 @@ employeescsv = open("employee_data.csv", "r")
 
 # create an empty dictionary
 
+employee = csv.reader(employeescsv, delimiter=",")
 
 
 
